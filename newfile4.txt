@@ -1,0 +1,5 @@
+this is the newfile created to check cp command
+
+This is new file created using  cat commandthis is the newfile created to check cp command
+
+This is new file created using  cat command
